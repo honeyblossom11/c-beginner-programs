@@ -1,2 +1,6 @@
-# c-beginner-programs
-My first C programming projects as a beginner CSE student.
+#include <stdio.h>
+
+int main() {
+    printf("Hello, World!");
+    return 0;
+}
